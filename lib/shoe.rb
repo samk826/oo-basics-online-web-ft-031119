@@ -6,10 +6,10 @@ def initialize (brand, color)
 
 def brand
   @brand
+end
 
   def color
     @color
-end
 end
 end
 end
