@@ -15,6 +15,7 @@ def size
 
   def material
     @material
+  end
 
 end
 end
