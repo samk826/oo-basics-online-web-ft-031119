@@ -14,5 +14,3 @@ def size
   @size
 
 end
-end
-end
