@@ -1,8 +1,10 @@
 class Shoe
 
-def initialize (brand, color)
+attr_accessor
+
+def initialize (brand)
   @brand=brand
-@color=color
+end
 
 def brand
   @brand
