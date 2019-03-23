@@ -5,5 +5,6 @@ def initialize (brand)
 
 def brand
   @brand
-end  
+end
+end
 end
